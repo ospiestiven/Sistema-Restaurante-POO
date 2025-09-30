@@ -1,0 +1,16 @@
+{
+  "name": "evidencia-final",
+  "version": "1.0.0",
+  "main": "restaurante.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node restaurante.js",
+    "dev": "node   restaurante.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
